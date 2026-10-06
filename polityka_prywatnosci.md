@@ -9,7 +9,7 @@ z dnia 24 września 2026 r.
 3. Z Dostawcą można skontaktować się pod adresem e-mail: [pwpw@pwpw.pl](mailto:pwpw@pwpw.pl).
 4. W sprawach dotyczących ochrony danych osobowych można skontaktować się z Inspektorem Ochrony Danych pod adresem e-mail: [iod@pwpw.pl](mailto:iod@pwpw.pl) lub pisemnie na adres: Polska Wytwórnia Papierów Wartościowych S.A., ul. Sanguszki 1, 00-222 Warszawa.
 5. Niniejsza Polityka prywatności jest dokumentem dotyczącym prywatności Użytkowników Aplikacji i stanowi odrębny dokument od regulaminu korzystania z Aplikacji.
-
+https://github.com/MateuszGorniak93/BreathNote/edit/main/polityka_prywatnosci.md
 ## 2. Zakres działania Aplikacji
 
 1. Aplikacja ma charakter edukacyjny i informacyjny.
