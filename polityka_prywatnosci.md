@@ -1,8 +1,8 @@
 Regulamin Aplikacji Eko
-z dnia @@@
+z dnia 06.10.2026
 Postanowienia wstępne
 Dostawcą aplikacji Eko jest Polska Wytwórnia Papierów Wartościowych S.A. z siedzibą w Warszawie, przy ul. Sanguszki 1, 00-222 Warszawa, zarejestrowana przez Sąd Rejonowy dla m.st. Warszawy, XII Wydział Gospodarczy Krajowego Rejestru Sądowego pod nr KRS 0000062594, NIP: 525-000-10-90, kapitał zakładowy 130 650 380,00 PLN, wpłacony w całości.
-Adresem elektronicznym Dostawcy jest: @@@.
+Adresem elektronicznym jest: pwpw@pwpw.pl
 Regulamin określa warunki techniczne korzystania z Aplikacji, jej funkcje, prawa i obowiązki związane z korzystaniem z Aplikacji oraz zasady dotyczące prywatności.
 Dostawca świadczy Usługi zgodnie z Regulaminem, a Użytkownik zobowiązuje się do przestrzegania jego postanowień.
 Obowiązująca treść Regulaminu jest udostępniana bezpłatnie na stronie internetowej pod adresem:
