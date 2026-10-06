@@ -5,7 +5,8 @@ Dostawcą aplikacji Eko jest Polska Wytwórnia Papierów Wartościowych S.A. z s
 Adresem elektronicznym Dostawcy jest: @@@.
 Regulamin określa warunki techniczne korzystania z Aplikacji, jej funkcje, prawa i obowiązki związane z korzystaniem z Aplikacji oraz zasady dotyczące prywatności.
 Dostawca świadczy Usługi zgodnie z Regulaminem, a Użytkownik zobowiązuje się do przestrzegania jego postanowień.
-Obowiązująca treść Regulaminu jest udostępniana bezpłatnie na stronie internetowej pod adresem: <a href="https://github.com/MateuszGorniak93/BreathNote/edit/main/polityka_prywatnosci.md">
+Obowiązująca treść Regulaminu jest udostępniana bezpłatnie na stronie internetowej pod adresem:
+<a href="https://github.com/MateuszGorniak93/BreathNote/edit/main/polityka_prywatnosci.md">
 Polityka prywatności.</a>
 
 Dostawcy przysługują autorskie prawa majątkowe do Aplikacji oraz utworów i materiałów w niej zawartych w rozumieniu ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych.
