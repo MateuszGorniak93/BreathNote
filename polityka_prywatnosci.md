@@ -1,143 +1,95 @@
-# Polityka prywatności aplikacji „BreathNote”
-
-z dnia 24 września 2026 r.
-
-## 1. Informacje ogólne
-
-1. Niniejsza Polityka prywatności dotyczy aplikacji mobilnej „BreathNote” („Aplikacja”).
-2. Dostawcą Aplikacji i administratorem danych osobowych, jeżeli dane takie zostaną przekazane Dostawcy poza samą Aplikacją, jest Polska Wytwórnia Papierów Wartościowych S.A. z siedzibą w Warszawie przy ul. Sanguszki 1, 00-222 Warszawa, wpisana do rejestru przedsiębiorców Krajowego Rejestru Sądowego pod numerem KRS 0000062594, NIP: 525-000-10-90, kapitał zakładowy 130 650 380,00 PLN wpłacony w całości („Dostawca”).
-3. Z Dostawcą można skontaktować się pod adresem e-mail: [pwpw@pwpw.pl](mailto:pwpw@pwpw.pl).
-4. W sprawach dotyczących ochrony danych osobowych można skontaktować się z Inspektorem Ochrony Danych pod adresem e-mail: [iod@pwpw.pl](mailto:iod@pwpw.pl) lub pisemnie na adres: Polska Wytwórnia Papierów Wartościowych S.A., ul. Sanguszki 1, 00-222 Warszawa.
-5. Niniejsza Polityka prywatności jest dokumentem dotyczącym prywatności Użytkowników Aplikacji i stanowi odrębny dokument od regulaminu korzystania z Aplikacji.
-<a href="https://github.com/MateuszGorniak93/BreathNote/edit/main/polityka_prywatnosci.md">
-    POLITYKA PRYWATNOŚCI
-</a>
-## 2. Zakres działania Aplikacji
-
-1. Aplikacja ma charakter edukacyjny i informacyjny.
-2. Aplikacja umożliwia zapoznawanie się z wybranymi zabezpieczeniami i technologiami stosowanymi w przykładowym banknocie edukacyjnym oraz prezentowanie związanych z nimi materiałów graficznych, opisów i treści multimedialnych.
-3. Aplikacja wykorzystuje technologię rozszerzonej rzeczywistości (AR) oraz kamerę urządzenia w celu rozpoznania odpowiedniego obrazu lub banknotu i wyświetlenia powiązanych z nim elementów rozszerzonej rzeczywistości.
-4. Aplikacja działa na kompatybilnych urządzeniach mobilnych z systemem Android lub iOS, spełniających wymagania techniczne określone dla aktualnej wersji Aplikacji.
-5. Aplikacja nie wymaga założenia konta u Dostawcy.
-6. Podstawowe funkcje Aplikacji nie wymagają stałego połączenia z Internetem po jej pobraniu i zainstalowaniu, z zastrzeżeniem funkcji systemowych lub usług dostarczanych przez podmioty trzecie, jeżeli wymagają one połączenia z Internetem.
-7. Korzystanie z Aplikacji jest bezpłatne. Pobranie Aplikacji ze sklepu Google Play albo Apple App Store może wiązać się z kosztami transmisji danych naliczanymi przez operatora telekomunikacyjnego Użytkownika.
-
-## 3. Uprawnienia urządzenia
-
-1. Do korzystania z funkcji rozszerzonej rzeczywistości Aplikacja wymaga dostępu do kamery urządzenia.
-2. Obraz z kamery jest wykorzystywany w celu rozpoznawania odpowiednich elementów znajdujących się w otoczeniu Użytkownika oraz wyświetlania treści rozszerzonej rzeczywistości.
-3. Aplikacja sama w sobie nie służy do wykonywania zdjęć ani nagrywania filmów przez Użytkownika.
-4. Dostawca nie wykorzystuje obrazu z kamery do identyfikowania Użytkownika, profilowania Użytkownika ani prowadzenia działań reklamowych lub marketingowych.
-5. Aplikacja nie zapisuje wykonanych przez kamerę zdjęć ani nagrań w galerii urządzenia w ramach jej podstawowej funkcjonalności.
-
-## 4. Dane zbierane przez Aplikację
-
-1. Aplikacja nie wymaga podawania danych osobowych Użytkownika.
-2. Aplikacja nie wymaga logowania, rejestracji ani podawania danych identyfikacyjnych.
-3. Dostawca nie otrzymuje za pośrednictwem podstawowej funkcjonalności Aplikacji danych takich jak:
-   1. imię i nazwisko,
-   2. adres e-mail,
-   3. numer telefonu,
-   4. adres zamieszkania,
-   5. dokładna lokalizacja,
-   6. kontakty,
-   7. dane płatnicze,
-   8. zdjęcia lub nagrania wykonane przez Użytkownika,
-   9. treści wiadomości,
-   10. dane wykorzystywane do profilowania reklamowego.
-4. Aplikacja nie służy do profilowania Użytkowników ani do śledzenia ich aktywności w celach reklamowych lub marketingowych.
-5. Aplikacja nie umożliwia dokonywania zakupów w aplikacji ani tworzenia kont użytkowników u Dostawcy.
-6. Niektóre ustawienia techniczne Aplikacji mogą być zapisywane lokalnie w pamięci urządzenia Użytkownika w celu zachowania wybranych preferencji, np. ustawienia włączenia lub wyłączenia dźwięku.
-7. Informacje, o których mowa w ust. 6, mają charakter lokalnych ustawień Aplikacji i nie są wykorzystywane przez Dostawcę do identyfikowania Użytkownika.
-8. Odinstalowanie Aplikacji może spowodować usunięcie zapisanych lokalnie ustawień Aplikacji zgodnie z zasadami systemu operacyjnego urządzenia.
-
-## 5. Kamera i rozszerzona rzeczywistość
-
-1. Aplikacja wykorzystuje kamerę urządzenia do obsługi funkcji rozszerzonej rzeczywistości oraz rozpoznawania obrazu.
-2. Dostęp do kamery jest wymagany wyłącznie dla funkcji Aplikacji, których działanie opiera się na analizie obrazu i prezentowaniu treści AR.
-3. Obraz z kamery nie jest przez Dostawcę wykorzystywany do ustalania tożsamości Użytkownika.
-4. Aplikacja nie udostępnia Dostawcy nagrań ani zdjęć przedstawiających otoczenie Użytkownika w ramach jej podstawowej funkcjonalności.
-5. Użytkownik może zarządzać uprawnieniem Aplikacji do korzystania z kamery za pomocą ustawień systemu Android lub iOS.
-6. Odmowa dostępu do kamery może uniemożliwić korzystanie z funkcji rozszerzonej rzeczywistości lub innych funkcji wymagających rozpoznawania obrazu.
-
-## 6. Udostępnianie danych
-
-1. Dostawca nie sprzedaje danych osobowych Użytkowników Aplikacji.
-2. Dostawca nie wykorzystuje Aplikacji do udostępniania danych Użytkownika podmiotom trzecim w celach reklamowych lub marketingowych.
-3. Aplikacja może wykorzystywać biblioteki, komponenty, technologie lub inne rozwiązania podmiotów trzecich niezbędne do realizacji jej funkcjonalności, w szczególności funkcji związanych z rozszerzoną rzeczywistością.
-4. Korzystanie z zewnętrznych komponentów technicznych nie oznacza, że Dostawca wykorzystuje Aplikację do sprzedaży danych Użytkownika ani do profilowania reklamowego.
-5. Sklepy Google Play i Apple App Store, za pośrednictwem których Użytkownik może pobrać Aplikację, mogą przetwarzać dane Użytkownika zgodnie z własnymi regulaminami i politykami prywatności. Dostawca nie administruje danymi przetwarzanymi niezależnie przez podmioty zarządzające tymi sklepami.
-
-## 7. Kontakt z Dostawcą i reklamacje
-
-1. Użytkownik może skontaktować się z Dostawcą, w szczególności w celu zgłoszenia reklamacji dotyczącej działania Aplikacji, pod adresem e-mail: [pwpw@pwpw.pl](mailto:pwpw@pwpw.pl).
-2. Jeżeli Użytkownik dobrowolnie skontaktuje się z Dostawcą, Dostawca może przetwarzać dane przekazane w treści wiadomości, w szczególności:
-   1. imię i nazwisko,
-   2. adres e-mail,
-   3. dane kontaktowe,
-   4. opis zgłoszenia,
-   5. treść żądania,
-   6. informacje techniczne przekazane dobrowolnie przez Użytkownika, takie jak model telefonu, wersja systemu operacyjnego, wersja Aplikacji oraz przybliżona data i godzina wystąpienia problemu.
-3. Dane przekazane w korespondencji są przetwarzane wyłącznie w celu obsługi zgłoszenia, udzielenia odpowiedzi, rozpatrzenia reklamacji, prowadzenia dalszej korespondencji oraz ewentualnego ustalenia, dochodzenia lub obrony roszczeń.
-4. Podstawą prawną przetwarzania danych przekazanych w korespondencji jest prawnie uzasadniony interes Dostawcy polegający na obsłudze zgłoszeń, prowadzeniu korespondencji oraz ochronie praw Dostawcy, tj. art. 6 ust. 1 lit. f RODO. Jeżeli przetwarzanie jest niezbędne do wykonania obowiązku prawnego ciążącego na Dostawcy, podstawą prawną jest art. 6 ust. 1 lit. c RODO.
-5. Dane przekazane w korespondencji mogą być ujawniane wyłącznie podmiotom upoważnionym do ich otrzymania na podstawie przepisów prawa, podmiotom wspierającym Dostawcę w obsłudze korespondencji, usług IT lub poczty elektronicznej, doradcom prawnym oraz osobom upoważnionym przez Dostawcę, w zakresie niezbędnym do obsługi zgłoszenia.
-
-## 8. Okres przechowywania danych
-
-1. Aplikacja nie przechowuje danych osobowych Użytkownika na potrzeby Dostawcy w ramach jej podstawowej funkcjonalności.
-2. Lokalne ustawienia techniczne Aplikacji mogą być przechowywane na urządzeniu Użytkownika przez okres korzystania z Aplikacji.
-3. Dane przekazane Dostawcy w korespondencji są przechowywane przez okres niezbędny do obsługi zgłoszenia lub reklamacji, a następnie przez okres wymagany przepisami prawa albo przez okres przedawnienia ewentualnych roszczeń.
-4. Użytkownik może w każdej chwili zaprzestać korzystania z Aplikacji poprzez jej odinstalowanie.
-
-## 9. Prawa Użytkownika
-
-1. W zakresie, w jakim Dostawca przetwarza dane osobowe przekazane dobrowolnie przez Użytkownika poza samą Aplikacją, Użytkownik ma prawo żądać:
-   1. dostępu do swoich danych,
-   2. sprostowania danych,
-   3. usunięcia danych,
-   4. ograniczenia przetwarzania,
-   5. przeniesienia danych, jeżeli ma zastosowanie,
-   6. wniesienia sprzeciwu wobec przetwarzania danych,
-   7. wniesienia skargi do Prezesa Urzędu Ochrony Danych Osobowych.
-2. Żądania dotyczące danych osobowych można kierować na adres e-mail: [pwpw@pwpw.pl](mailto:pwpw@pwpw.pl) albo [iod@pwpw.pl](mailto:iod@pwpw.pl).
-3. Realizacja niektórych praw może zależeć od podstawy prawnej i celu przetwarzania danych.
-
-## 10. Prywatność dzieci
-
-1. Aplikacja ma charakter edukacyjny i informacyjny.
-2. Aplikacja nie wymaga podawania danych osobowych przez Użytkownika ani tworzenia konta u Dostawcy.
-3. Dostawca nie wykorzystuje Aplikacji do świadomego zbierania danych osobowych dzieci.
-4. Jeżeli z Dostawcą kontaktuje się rodzic, opiekun prawny lub inna osoba w sprawie dotyczącej Aplikacji, dane przekazane w korespondencji są przetwarzane zgodnie z zasadami opisanymi w niniejszej Polityce prywatności.
-
-## 11. Bezpieczeństwo
-
-1. Dostawca dokłada należytej staranności w celu zapewnienia odpowiedniego poziomu bezpieczeństwa teleinformatycznego Aplikacji.
-2. Aplikacja została zaprojektowana w taki sposób, aby ograniczać zakres informacji wymaganych do korzystania z jej podstawowych funkcji.
-3. W przypadku danych przekazanych Dostawcy w korespondencji Dostawca stosuje środki organizacyjne i techniczne mające na celu ochronę danych przed nieuprawnionym dostępem, utratą, zmianą lub ujawnieniem.
-
-## 12. Zmiany Polityki prywatności
-
-1. Polityka prywatności może zostać zmieniona w przypadku:
-   1. zmiany funkcjonalności Aplikacji,
-   2. zmiany sposobu przetwarzania danych,
-   3. zmiany wykorzystywanych komponentów technicznych,
-   4. zmiany danych kontaktowych Dostawcy,
-   5. zmiany przepisów prawa,
-   6. zmiany wymagań sklepów Google Play lub Apple App Store.
-2. Aktualna treść Polityki prywatności jest udostępniana w miejscu wskazanym w opisie Aplikacji w Google Play i Apple App Store oraz, jeżeli dotyczy, w samej Aplikacji.
-3. Jeżeli w przyszłości Aplikacja zacznie zbierać lub przetwarzać dodatkowe dane Użytkownika albo dane dotyczące urządzenia, Polityka prywatności zostanie odpowiednio zaktualizowana.
-
-## 13. Podsumowanie dla sklepów Google Play i Apple App Store
-
-Na dzień wskazany w nagłówku niniejszej Polityki prywatności:
-
-1. konto użytkownika u Dostawcy: brak,
-2. dane identyfikacyjne wymagane przez Aplikację: brak,
-3. zakupy w aplikacji: brak,
-4. reklamy w Aplikacji: brak,
-5. profilowanie reklamowe Użytkownika: brak,
-6. śledzenie Użytkownika w celach reklamowych lub marketingowych: brak,
-7. dostęp do kamery: tak, w celu obsługi rozpoznawania obrazu i rozszerzonej rzeczywistości,
-8. wykonywanie i zapisywanie zdjęć przez podstawową funkcjonalność Aplikacji: brak,
-9. lokalne ustawienia Aplikacji: mogą być przechowywane na urządzeniu Użytkownika,
-10. stałe połączenie z Internetem wymagane do podstawowego działania Aplikacji: brak.
+Regulamin Aplikacji Eko
+z dnia @@@
+Postanowienia wstępne
+Dostawcą aplikacji Eko jest Polska Wytwórnia Papierów Wartościowych S.A. z siedzibą w Warszawie, przy ul. Sanguszki 1, 00-222 Warszawa, zarejestrowana przez Sąd Rejonowy dla m.st. Warszawy, XII Wydział Gospodarczy Krajowego Rejestru Sądowego pod nr KRS 0000062594, NIP: 525-000-10-90, kapitał zakładowy 130 650 380,00 PLN, wpłacony w całości.
+Adresem elektronicznym Dostawcy jest: @@@.
+Regulamin określa warunki techniczne korzystania z Aplikacji, jej funkcje, prawa i obowiązki związane z korzystaniem z Aplikacji oraz zasady dotyczące prywatności.
+Dostawca świadczy Usługi zgodnie z Regulaminem, a Użytkownik zobowiązuje się do przestrzegania jego postanowień.
+Obowiązująca treść Regulaminu jest udostępniana bezpłatnie na stronie internetowej pod adresem: <a href="https://github.com/MateuszGorniak93/BreathNote/edit/main/polityka_prywatnosci.md">
+Polityka prywatności.</a>
+Dostawcy przysługują autorskie prawa majątkowe do Aplikacji oraz utworów i materiałów w niej zawartych w rozumieniu ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych.
+Aplikacja do swojego działania może wykorzystywać komponenty i biblioteki oparte na licencjach zewnętrznych, w szczególności:
+Unity,
+Vuforia,
+ARCore dostarczane przez Google,
+ARKit dostarczane przez Apple.
+Do korzystania z Aplikacji mogą mieć również zastosowanie odpowiednie warunki świadczenia usług i polityki prywatności dostawców systemu operacyjnego, sklepu z aplikacjami oraz wykorzystywanych komponentów zewnętrznych, w szczególności Google i Apple.
+Definicje
+Aplikacja – aplikacja mobilna Eko udostępniana przez Polską Wytwórnię Papierów Wartościowych S.A.
+Dostawca – Polska Wytwórnia Papierów Wartościowych S.A. z siedzibą w Warszawie, twórca i dostawca Aplikacji.
+Urządzenie – urządzenie mobilne spełniające wymagania sprzętowe i systemowe określone w Regulaminie, na którym Użytkownik korzysta z Aplikacji.
+Usługi – funkcje, materiały i treści elektroniczne udostępniane za pośrednictwem Aplikacji.
+Użytkownik – każda osoba, która zainstalowała Aplikację i z niej korzysta.
+Opis i funkcje Aplikacji
+Rozpoczęcie korzystania z Aplikacji jest równoznaczne z zapoznaniem się z treścią Regulaminu i jego zaakceptowaniem.
+Korzystanie z Aplikacji jest bezpłatne, z zastrzeżeniem ewentualnych kosztów transmisji danych wynikających z umowy Użytkownika z operatorem telekomunikacyjnym.
+Aplikacja ma charakter edukacyjny i informacyjny. Jej celem jest prezentowanie wybranych informacji dotyczących banknotu demonstracyjnego PWPW oraz zastosowanych w nim rozwiązań i elementów zabezpieczających.
+Aplikacja umożliwia w szczególności:
+rozpoznawanie wskazanego obrazu lub banknotu demonstracyjnego za pomocą aparatu Urządzenia,
+prezentowanie elementów w rozszerzonej rzeczywistości,
+prezentowanie wybranych zabezpieczeń banknotu wraz z opisami,
+przełączanie pomiędzy widokiem awersu i rewersu banknotu,
+prezentowanie wybranych zabezpieczeń w widoku odpowiadającym obserwacji w świetle UV,
+wyświetlanie powiększonych grafik i informacji dotyczących poszczególnych zabezpieczeń,
+prezentowanie dodatkowych materiałów edukacyjnych, animacji, filmów lub modeli 3D, jeżeli są dostępne w danej wersji Aplikacji,
+zmianę języka interfejsu pomiędzy obsługiwanymi wersjami językowymi.
+Aplikacja ma charakter demonstracyjny i edukacyjny. Informacje prezentowane w Aplikacji nie stanowią instrukcji umożliwiającej odtworzenie technologii produkcji dokumentów lub zabezpieczeń.
+W celu uruchomienia Aplikacji i jej prawidłowego działania Urządzenie powinno:
+spełniać wymagania systemowe: Android w wersji @@@ lub wyższej albo iOS w wersji @@@ lub wyższej,
+posiadać sprawny aparat,
+umożliwiać wykorzystanie funkcji wymaganych przez mechanizmy rozszerzonej rzeczywistości, w tym – zależnie od Urządzenia – żyroskopu, akcelerometru oraz innych czujników.
+Użytkownik powinien udzielić Aplikacji wymaganych uprawnień do aparatu oraz innych funkcji Urządzenia niezbędnych do działania funkcji AR.
+Aplikacja co do zasady nie wymaga utworzenia konta użytkownika u Dostawcy.
+Zakres funkcji wymagających połączenia z Internetem może zależeć od sposobu dystrybucji Aplikacji, aktualizacji oraz zastosowanych usług zewnętrznych.
+Pobranie Aplikacji z Google Play lub Apple App Store może wiązać się z kosztami transmisji danych wynikającymi z umowy pomiędzy Użytkownikiem a operatorem telekomunikacyjnym. Dostawca nie ponosi odpowiedzialności za te koszty.
+Użytkownik może w każdym czasie zaprzestać korzystania z Aplikacji, w szczególności poprzez jej odinstalowanie.
+Reklamacje
+Użytkownik ma prawo zgłosić reklamację dotyczącą działania Aplikacji na adres elektroniczny Dostawcy: @@@.
+Reklamacja powinna, w miarę możliwości, zawierać:
+imię i nazwisko Użytkownika,
+dane kontaktowe,
+opis problemu lub reklamacji,
+treść żądania Użytkownika,
+rodzaj funkcji lub Usługi, której dotyczy problem,
+przybliżoną datę i godzinę wystąpienia problemu,
+markę i model Urządzenia,
+numer wersji systemu operacyjnego,
+numer wersji Aplikacji.
+Dostawca ustosunkuje się do reklamacji w terminie 14 dni od dnia otrzymania zgłoszenia, o ile obowiązujące przepisy prawa nie przewidują innego terminu.
+Odpowiedzialność
+Dostawca nie ponosi odpowiedzialności za nieprawidłowe działanie Aplikacji wynikające z niespełnienia przez Urządzenie wymagań sprzętowych lub systemowych.
+Dostawca zakazuje wykorzystywania Aplikacji w celach bezprawnych oraz podejmowania działań mogących zakłócać jej prawidłowe funkcjonowanie.
+Dostawca nie ponosi odpowiedzialności za szkody powstałe wskutek korzystania z Aplikacji w sposób niezgodny z jej przeznaczeniem, Regulaminem lub zasadami bezpieczeństwa.
+Podczas korzystania z funkcji aparatu i rozszerzonej rzeczywistości Użytkownik powinien zwracać uwagę na otoczenie i korzystać z Aplikacji w sposób bezpieczny.
+Użytkownik nie powinien korzystać z Aplikacji w sposób powodujący zagrożenie dla siebie lub osób trzecich, w szczególności podczas prowadzenia pojazdów lub poruszania się w miejscach wymagających zwiększonej uwagi.
+Dane i prywatność
+Dostawca przywiązuje szczególną wagę do poszanowania prywatności Użytkowników oraz zapewnienia odpowiedniego poziomu bezpieczeństwa teleinformatycznego Aplikacji.
+Aplikacja nie wymaga od Użytkownika utworzenia konta u Dostawcy ani podawania danych osobowych w celu korzystania z jej podstawowych funkcji.
+W związku z działaniem funkcji rozszerzonej rzeczywistości Aplikacja może przetwarzać techniczne dane dotyczące działania Urządzenia i jego położenia przestrzennego, w szczególności informacje wykorzystywane do określania orientacji i pozycji Urządzenia względem rozpoznawanego obiektu.
+Dane takie mogą obejmować informacje dotyczące położenia względem osi X, Y i Z oraz dane pochodzące z czujników Urządzenia niezbędne do działania funkcji AR.
+Wykorzystywane w Aplikacji biblioteki i komponenty zewnętrzne mogą automatycznie przetwarzać określone dane techniczne i diagnostyczne zgodnie z zasadami określonymi przez ich dostawców.
+W zależności od konfiguracji Aplikacji mogą to być w szczególności:
+informacje o urządzeniu,
+informacje o systemie operacyjnym,
+dane diagnostyczne,
+informacje o błędach lub wydajności Aplikacji,
+inne dane techniczne wymagane do świadczenia usług przez dostawców komponentów zewnętrznych.
+Zakres danych przetwarzanych przez rozwiązania zewnętrzne może zależeć od wersji systemu operacyjnego, konfiguracji Urządzenia oraz aktualnej wersji wykorzystywanych bibliotek.
+Dane techniczne, które nie pozwalają Dostawcy na identyfikację Użytkownika, mogą być wykorzystywane w szczególności w celu zapewnienia prawidłowego działania, diagnostyki i rozwoju Aplikacji.
+Zasady dotyczące prywatności Aplikacji stanowią uzupełnienie zasad i polityk prywatności właściwych dla Google Play, Apple App Store oraz innych usług i komponentów wykorzystywanych przez Aplikację.
+Dostawca nie ponosi odpowiedzialności za treść polityk prywatności ani sposób przetwarzania danych przez niezależnych dostawców zewnętrznych, w zakresie, w jakim pozostaje to poza kontrolą Dostawcy.
+Dostępność Aplikacji
+Dostawca dokłada należytych starań w celu zapewnienia dostępności i prawidłowego funkcjonowania Aplikacji.
+Dostawca nie gwarantuje jednak nieprzerwanej dostępności wszystkich funkcji Aplikacji i zastrzega sobie możliwość wprowadzania przerw technicznych niezbędnych do utrzymania, aktualizacji lub rozwoju Aplikacji.
+Dostawca może wprowadzać aktualizacje Aplikacji, w tym zmiany jej funkcjonalności, interfejsu, materiałów lub wymagań technicznych.
+W uzasadnionych przypadkach Dostawca zastrzega sobie prawo do ograniczenia lub zakończenia udostępniania Aplikacji lub części jej funkcji.
+Zmiany Regulaminu
+Regulamin może zostać zmieniony przez Dostawcę w szczególności w przypadku:
+konieczności dostosowania jego postanowień do obowiązujących przepisów prawa,
+konieczności dostosowania Regulaminu do zaleceń, decyzji lub wytycznych uprawnionych organów,
+rozbudowy lub zmiany funkcjonalności Aplikacji,
+wprowadzenia nowych Usług lub zmiany istniejących funkcji,
+zmiany technologii, komponentów lub rozwiązań wykorzystywanych przez Aplikację,
+konieczności usunięcia niejasności, błędów lub omyłek,
+zmiany danych teleadresowych, nazw, numerów identyfikacyjnych, adresów elektronicznych lub odnośników zawartych w Regulaminie.
+Zmiany Regulaminu wchodzą w życie po upływie 14 dni od ich opublikowania, chyba że wcześniejsze wejście zmian w życie jest wymagane przez przepisy prawa albo jest niezbędne ze względów bezpieczeństwa Użytkowników lub Aplikacji.
